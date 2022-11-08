@@ -2,6 +2,8 @@ Hi there 👋
 
 I'm Sherllyne or Shell. 😉
 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sherllynepontes/)
+
 I’m currently in between career field transition to technology, studying JAVA and Salesforce. Looking further to output myself more in IT universe, by being  attentive to opportunities, new lessons and exchanges.
 
 I'm currently product analyst, but what really makes my eyes shine is development.
