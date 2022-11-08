@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm Sherllyne or Shell.
+I'm Sherllyne or Shell. 😉
 
 I’m currently in between career field transition to technology, studying JAVA and Salesforce. Looking further to output myself more in IT universe, by being  attentive to opportunities, new lessons and exchanges.
 
