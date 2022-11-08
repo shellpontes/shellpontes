@@ -12,7 +12,7 @@ I'm currently product analyst, but what really makes my eyes shine is developmen
 I love games, travel, music, social gathering with friends.
 
 ## 🛠 Habilidades
-Java, Springboot, GIT / GITHUB. 
+Java, Springboot, Salesforce, GIT / GITHUB. 
 
 <!---
 shellpontes/shellpontes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
